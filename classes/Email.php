@@ -25,8 +25,8 @@ public function enviarConfirmacion(){
     $mail->Username = '13b74c651a4e12';
     $mail->Password = 'ff887b7576bdd9';
 
-    $mail->setFrom('cuenta@appsalon.com');
-    $mail->addAddress('cuenta@appsalon.com', 'AppSalon.com');
+    $mail->setFrom('cueSpa-Francorchampnt@.com');
+    $mail->addAddress('cuenta@circuitbelgium.com', 'Spa-Francorchamp.com');
     $mail->Subject = 'Confirma tu cuenta';
 
 
